@@ -7,7 +7,6 @@
 **Plataforma SaaS de apostas inteligentes para o mercado de língua portuguesa**
 Surebets · Apostas de valor (+EV) · Matched Betting · Escola
 
-[![Website](https://img.shields.io/badge/kamiodds.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamiodds.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/d2awCsJJwu)
 
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
