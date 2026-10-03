@@ -32,7 +32,7 @@ O KamiODDS deteta **surebets** (combinações de odds em casas diferentes que ga
 
 Além da deteção, o produto guia o utilizador na execução (wizards passo a passo), regista o lucro real e ensina os fundamentos na **Escola**. O foco atual é o **matched betting**: transformar os bónus das casas em lucro garantido, como porta de entrada para quem está a começar.
 
-> **Não é uma casa de apostas.** Não aceita apostas nem gere dinheiro de clientes. É um SaaS de análise de dados.
+> **Não é uma casa de apostas.** Não aceita apostas nem gere dinheiro de clientes. É um SaaS de análise de dados com mais de 100mil linhas de código.
 
 ---
 
